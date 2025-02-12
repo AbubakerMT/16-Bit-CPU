@@ -53,7 +53,10 @@ This project implements a **16-bit pipelined MIPS-like processor** using **Logis
 
 | Description                               | Image                                                      |
 |-------------------------------------------|------------------------------------------------------------|
-| **Block diagram of the 16-bit processor** | ![Processor Block Diagram](path/to/processor_block_diagram.png) |
-| **Simulation of Bubble Sort in Logisim**  | ![Bubble Sort Simulation](path/to/bubble_sort_simulation.png) |
-| **Pipelined processor with pipeline stages** | ![Pipelined Processor](path/to/pipelined_processor.png)       |
+| **PC Control Unit** | ![](media/Picture10.png) |
+| **Register File**  | ![](media/Picture11.png) |
+| **Arithmatic Logic Unit** | ![](media/Picture12.png)       |
+| **General Control** | ![](media/Picture13.png)       |
+| **Main Control** | ![](media/Picture14.png)       |
+| **ALU Control** | ![](media/Picture15.png)       |
 
